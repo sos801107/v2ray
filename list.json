@@ -90,7 +90,7 @@
     "remark": "barry-far/V2ray-Configs",
     "site": "https://github.com/barry-far/V2ray-Configs",
     "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 13,
