@@ -115,6 +115,20 @@
   },
   {
     "id": 16,
+    "remark": "cfno1",
+    "site": "https://cfno1.eu.org/",
+    "url": "https://cfno1.pages.dev/sub",
+    "enabled": false
+  },
+  {
+    "id": 17,
+    "remark": "skrapp",
+    "site": "http://api.skrapp.net/api/serverlist",
+    "url": "https://raw.githubusercontent.com/sos801107/v2ray/refs/heads/master/utils/skrapp.txt",
+    "enabled": false
+  },  
+  {
+    "id": 18,
     "remark": "Misaka-blog/chromego_merge",
     "site": "https://github.com/Misaka-blog/chromego_merge",
     "url": "https://raw.githubusercontent.com/Misaka-blog/chromego_merge/refs/heads/main/sub/base64.txt",
