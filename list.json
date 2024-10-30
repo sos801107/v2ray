@@ -104,14 +104,14 @@
     "remark": "mahdibland/V2RayAggregator",
     "site": "https://github.com/mahdibland/V2RayAggregator",
     "url": "https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_base64.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 15,
     "remark": "pmsub",
     "site": "https://sub.pmsub.me/base64",
     "url": "https://sub.pmsub.me/base64",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 16,
@@ -131,7 +131,7 @@
     "id": 18,
     "remark": "Misaka-blog/chromego_merge",
     "site": "https://github.com/Misaka-blog/chromego_merge",
-    "url": "https://raw.githubusercontent.com/Misaka-blog/chromego_merge/refs/heads/main/sub/base64.txt",
+    "url": "https://raw.githubusercontent.com/shangui999/chromego_merge/refs/heads/master/sub/shadowrocket_base64.txt",
     "enabled": true
   }
 ]
