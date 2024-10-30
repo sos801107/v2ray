@@ -126,7 +126,7 @@
     "site": "http://api.skrapp.net/api/serverlist",
     "url": "https://raw.githubusercontent.com/sos801107/v2ray/refs/heads/master/utils/skrapp.txt",
     "enabled": false
-  },  
+  },
   {
     "id": 18,
     "remark": "Misaka-blog/chromego_merge",
