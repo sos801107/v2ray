@@ -133,5 +133,12 @@
     "site": "https://github.com/Misaka-blog/chromego_merge",
     "url": "https://demo.wuqb2i4f.workers.dev/20cf4d65-f3ac-4266-8148-76de9e1eac6e/configs?sub=wuqb2i4f",
     "enabled": true
+  },
+  {
+    "id": 18,
+    "remark": "Misaka-blog/chromego_merge",
+    "site": "https://github.com/Misaka-blog/chromego_merge",
+    "url": "https://raw.githubusercontent.com/linzjian666/chromego_extractor/refs/heads/main/outputs/base64.txt",
+    "enabled": true
   }
 ]
