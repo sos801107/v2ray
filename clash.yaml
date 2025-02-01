@@ -13,8 +13,8 @@ proxies:
 - {name: 🇦🇶NOWHERE-0.0.0.0-011, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
 - {name: 🇦🇶FASTLY-151.101.0.144-012, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /77848824, tls: true, ws-headers: {Host: zheshiscp.com}}
 - {name: 🇦🇶NOWHERE-0.0.0.0-013, server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server32.beheshtbaneh.com}}
-- {name: 🏁RELAY-172.67.200.13-014, server: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top, port: 443, type: vmess, uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /azumase.ren, tls: true, ws-headers: {Host: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top}}
-- {name: 🏁RELAY-172.67.153.156-015, server: ovhwuxian.pai50288.uk, port: 8443, type: vmess, uuid: 86455bfc-dd02-4a3b-9f03-7668f39375d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: ovhwuxian.pai50288.uk}}
+- {name: 🏁RELAY-104.21.21.192-014, server: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top, port: 443, type: vmess, uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /azumase.ren, tls: true, ws-headers: {Host: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top}}
+- {name: 🏁RELAY-172.64.80.1-015, server: ovhwuxian.pai50288.uk, port: 8443, type: vmess, uuid: 86455bfc-dd02-4a3b-9f03-7668f39375d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: ovhwuxian.pai50288.uk}}
 - {name: 🏁RELAY-104.19.48.236-016, server: 104.19.48.236, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
 - {name: 🇺🇸US-204.136.10.115-017, server: 204.136.10.115, port: 1866, type: ss, cipher: chacha20-ietf-poly1305, password: oXGp1+ihlfKg826H}
 - {name: 🏁RELAY-104.17.148.22-018, server: www.speedtest.net, port: 80, type: vmess, uuid: 368bf030-db51-11ef-b336-205c6d5f5d78, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /xa62zvle, tls: false, ws-headers: {Host: eu-2.hihu.net}}
@@ -23,367 +23,353 @@ proxies:
 - {name: 🏁RELAY-104.16.155.10-021, server: 104.16.155.10, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
 - {name: 🏁RELAY-198.41.209.70-022, server: 198.41.209.70, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
 - {name: 🏁RELAY-104.17.221.248-023, server: 104.17.221.248, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
-- {name: 🏁RELAY-104.21.64.1-024, server: ff.kncc2.top, port: 8443, type: vmess, uuid: 89c344f2-096c-445c-b629-9b15152f38e7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /89c344f2, tls: true, ws-headers: {Host: ff.kncc2.top}}
-- {name: 🇬🇧GB-3.11.192.133-025, server: 3.11.192.133, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🏁RELAY-104.17.221.248-026, server: 104.17.221.248, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
-- {name: 🇷🇺RU-46.17.42.248-027, server: 46.17.42.248, port: 23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
-- {name: 🏁RELAY-104.21.112.1-028, server: 104.21.112.1, port: 8443, type: vmess, uuid: 89c344f2-096c-445c-b629-9b15152f38e7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /89c344f2, tls: true, ws-headers: {Host: ff.kncc2.top}}
-- {name: 🇩🇪DE-57.129.24.124-029, server: 57.129.24.124, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkvws, tls: true, ws-headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}
-- {name: 🇩🇪DE-63.176.116.207-030, server: 63.176.116.207, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇩🇪DE-185.121.134.12-031, server: 185.121.134.12, port: 20302, type: vmess, uuid: 108e3429-a500-44df-94e5-c315b2bacf2f, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 185.121.134.12}}
-- {name: 🏁RELAY-104.16.155.10-032, server: 104.16.155.10, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.18.42.172, tls: false, ws-headers: {Host: 100-38-62-25.s5.db-link02.top}}
-- {name: 🇯🇵JP-37.128.255.108-033, server: high.eb.defehaita.xyz, port: 22332, type: trojan, password: 3bcaef9b-af27-4e23-8e18-91be0774ba89, sni: douyin.com, skip-cert-verify: true}
-- {name: 🏁RELAY-104.17.213.241-034, server: s4.db-link02.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.239.131, tls: false, ws-headers: {Host: 100-128-12-180.s4.db-link02.top}}
-- {name: 🇸🇪SE-13.61.222.70-035, server: 13.61.222.70, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇳🇱NL-77.239.100.183-036, server: 77.239.100.183, port: 65078, type: ss, cipher: chacha20-ietf-poly1305, password: bKb325QJ4fX3d3O9Wk9d7B}
-- {name: 🇯🇵JP-147.45.49.219-037, server: 147.45.49.219, port: 30443, type: ss, cipher: chacha20-ietf-poly1305, password: e6c75b36-6a4a-4471-b35c-a67532ef1530}
-- {name: 🇳🇱NL-193.29.139.189-038, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-- {name: 🏁RELAY-104.21.96.1-039, server: 104.21.96.1, port: 8443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: it0.899994.xyz}}
-- {name: 🇳🇱NL-193.29.139.179-040, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-- {name: 🇨🇦CA-15.235.50.172-041, server: 15.235.50.172, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkvws, tls: true, ws-headers: {Host: baradiha.com}}
-- {name: 🏁RELAY-104.18.112.107-042, server: 104.18.112.107, port: 443, type: vmess, uuid: 09d5805c-7a22-47c1-b1c3-f090df0a98ed, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /lfljvws, tls: true, ws-headers: {Host: rac.679888.xyz}}
-- {name: 🏁RELAY-104.17.221.248-043, server: s1.db-link01.top, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.184.216, tls: false, ws-headers: {Host: 100-32-21-187.s1.db-link01.top}}
-- {name: 🇫🇷FR-35.181.236.182-044, server: 35.181.236.182, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇫🇷FR-13.39.138.247-045, server: 13.39.138.247, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🏁RELAY-104.19.48.236-046, server: 104.19.48.236, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
-- {name: 🏁RELAY-104.16.155.10-047, server: s1.db-link01.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.67.95.35, tls: false, ws-headers: {Host: 100-250-32-53.s1.db-link01.top}}
-- {name: 🏁RELAY-104.17.213.241-048, server: 104.17.213.241, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
-- {name: 🇵🇱PL-45.144.48.128-049, server: 3h-poland1.09vpn.com, port: 8443, type: vmess, uuid: a4850481-9b95-430f-9b2d-192d2410b4f4, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /vmess/, tls: true, ws-headers: {Host: 3h-poland1.09vpn.com}}
-- {name: 🇸🇬SG-154.196.244.19-050, server: 154.196.244.19, port: 16009, type: ss, cipher: aes-256-gcm, password: DCCLUB5YPGIF01PJ}
-- {name: 🇯🇵JP-37.128.255.108-051, server: 37.128.255.108, port: 22332, type: trojan, password: 3bcaef9b-af27-4e23-8e18-91be0774ba89, sni: douyin.com, skip-cert-verify: true}
-- {name: 🇯🇵JP-52.195.0.55-053, server: 52.195.0.55, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇸🇬SG-54.169.216.161-054, server: 54.169.216.161, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇹🇼TW-60.249.35.39-055, server: 60.249.35.39, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇹🇼TW-211.22.161.135-056, server: 211.22.161.135, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇹🇼TW-211.22.161.134-057, server: 211.22.161.134, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇸🇬SG-202.162.109.169-058, server: 202.162.109.169, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-- {name: 🇹🇼TW-60.249.28.60-059, server: 60.249.28.60, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇹🇼TW-60.249.28.59-060, server: 60.249.28.59, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇯🇵JP-54.64.148.82-061, server: 54.64.148.82, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇹🇼TW-60.249.28.136-062, server: 60.249.28.136, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇹🇼TW-60.249.28.137-063, server: 60.249.28.137, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇺🇸US-95.174.71.29-064, server: 95.174.71.29, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇺🇸US-95.174.71.28-065, server: 95.174.71.28, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇯🇵JP-18.183.79.218-066, server: 18.183.79.218, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇸🇬SG-54.254.91.60-067, server: 54.254.91.60, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇹🇼TW-60.249.35.59-068, server: 60.249.35.59, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇺🇸US-23.247.137.165-069, server: 23.247.137.165, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇯🇵JP-3.112.203.145-070, server: 3.112.203.145, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇻🇳VN-103.173.66.192-024, server: 103.173.66.192, port: 443, type: trojan, password: 5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad, sni: cmc1.5gsieuvip.vn, skip-cert-verify: true}
+- {name: 🇺🇸US-192.74.239.212-025, server: 192.74.239.212, port: 31003, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /path/1737106641750, tls: true, ws-headers: {Host: 192.74.239.212}}
+- {name: 🇸🇪SE-16.171.119.119-026, server: 16.171.119.119, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-104.16.155.10-027, server: s4.db-link02.top, port: 8080, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.19.103.96, tls: false, ws-headers: {Host: 100-80-77-140.s4.db-link02.top}}
+- {name: 🇸🇬SG-188.253.5.199-028, server: sgp.fastsoonlink.com, port: 40005, type: ss, cipher: chacha20-ietf-poly1305, password: 3FB23A19-9424-40C7-9139-3540228283FA}
+- {name: 🇮🇪IE-54.73.126.193-029, server: 54.73.126.193, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-104.16.155.10-030, server: 104.16.155.10, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.24.185.219, tls: false, ws-headers: {Host: 100-151-81-36.s4.db-link01.top}}
+- {name: 🇫🇷FR-35.181.219.35-031, server: 35.181.219.35, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-172.64.150.8-032, server: p1.v2raybrasil.xyz, port: 2052, type: vmess, uuid: a71c8f6c-5210-45a0-8f47-1d2556ee3083, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: ybr.redbullplus.xyz}}
+- {name: 🇸🇪SE-13.60.115.118-033, server: 13.60.115.118, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-141.101.122.109-034, server: 141.101.122.109, port: 443, type: vmess, uuid: 09d5805c-7a22-47c1-b1c3-f090df0a98ed, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /lfljvws, tls: true, ws-headers: {Host: rac.679888.xyz}}
+- {name: 🇻🇳VN-103.173.66.155-035, server: 103.173.66.155, port: 443, type: trojan, password: 5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad, sni: cmc3.5gsieuvip.vn, skip-cert-verify: true}
+- {name: 🇫🇷FR-13.39.138.247-036, server: 13.39.138.247, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-104.21.112.1-037, server: it0.899994.xyz, port: 8443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: it0.899994.xyz}}
+- {name: 🏁RELAY-92.53.188.185-038, server: 92.53.188.185, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /xrenvws, tls: true, ws-headers: {Host: lax1.ibgfw.top}}
+- {name: 🏁RELAY-198.41.209.70-039, server: s2.cn-db.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.24.231.155, tls: false, ws-headers: {Host: 100-165-40-54.s2.cn-db.top}}
+- {name: 🇻🇳VN-103.173.66.191-040, server: 103.173.66.191, port: 443, type: trojan, password: 5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad, skip-cert-verify: true}
+- {name: 🇫🇷FR-35.181.27.38-041, server: 35.181.27.38, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇸🇪SE-51.20.211.134-042, server: 51.20.211.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-104.19.48.236-043, server: s4.db-link02.top, port: 80, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.24.152.253, tls: false, ws-headers: {Host: 100-21-178-246.s4.db-link02.top}}
+- {name: 🇵🇱PL-45.144.48.128-044, server: 45.144.48.128, port: 8443, type: vmess, uuid: a4850481-9b95-430f-9b2d-192d2410b4f4, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /vmess/, tls: true, ws-headers: {Host: 45.144.48.128}}
+- {name: 🇨🇴CO-181.119.30.20-045, server: 181.119.30.20, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+- {name: 🇻🇳VN-36.50.135.142-046, server: 36.50.135.142, port: 443, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, sni: bs1.loadingip.com, skip-cert-verify: true}
+- {name: 🇨🇳CN-45.250.184.183-047, server: 45.250.184.183, port: 6181, type: ss, cipher: chacha20-ietf-poly1305, password: 11a805f2-41a7-4cd8-8406-0470c3cde0d3}
+- {name: 🇸🇬SG-154.196.244.19-048, server: 154.196.244.19, port: 16009, type: ss, cipher: aes-256-gcm, password: DCCLUB5YPGIF01PJ}
+- {name: 🇻🇳VN-103.173.66.192-049, server: cmc1.5gsieuvip.vn, port: 443, type: trojan, password: 5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad, sni: cmc1.5gsieuvip.vn, skip-cert-verify: true}
+- {name: 🇺🇸US-23.185.248.14-050, server: 23.185.248.14, port: 17004, type: ss, cipher: aes-256-gcm, password: GS8Y0BJITHBHZWPE}
+- {name: 🇩🇪DE-52.57.204.189-051, server: 52.57.204.189, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🏁RELAY-45.131.7.10-052, server: 45.131.7.10, port: 8080, type: vmess, uuid: 2a4fa40f-97f4-4ea9-b959-b148c4197d15, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /2a4fa40f, tls: false, ws-headers: {Host: luodi.davesuen.store}}
+- {name: 🏁RELAY-104.19.48.236-053, server: s4.cn-db.top, port: 2052, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 100-106-60-74.s4.cn-db.top}}
+- {name: 🏁RELAY-104.21.80.1-054, server: ff.kncc2.top, port: 8443, type: vmess, uuid: 89c344f2-096c-445c-b629-9b15152f38e7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /89c344f2, tls: true, ws-headers: {Host: ff.kncc2.top}}
+- {name: 🏁RELAY-104.21.64.1-055, server: 104.21.64.1, port: 8443, type: vmess, uuid: 89c344f2-096c-445c-b629-9b15152f38e7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: ff.kncc2.top}}
+- {name: 🇺🇸US-35.88.145.179-057, server: 35.88.145.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇺🇸US-35.95.28.198-058, server: 35.95.28.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇺🇸US-35.162.184.175-059, server: 35.162.184.175, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇯🇵JP-18.176.215.63-060, server: 18.176.215.63, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
+- {name: 🇰🇷KR-52.78.2.44-061, server: 52.78.2.44, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇯🇵JP-3.112.203.145-062, server: 3.112.203.145, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇳🇱NL-193.29.139.179-063, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+- {name: 🇯🇵JP-43.207.204.247-064, server: 43.207.204.247, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-52.78.107.95-065, server: 52.78.107.95, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇳🇱NL-193.29.139.189-066, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+- {name: 🇺🇸US-34.222.145.125-067, server: 34.222.145.125, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇯🇵JP-52.195.0.55-068, server: 52.195.0.55, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇱🇹LT-45.87.175.154-069, server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+- {name: 🇺🇸US-52.10.15.85-070, server: 52.10.15.85, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇺🇸US-35.89.84.182-071, server: 35.89.84.182, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-34.222.145.125-072, server: 34.222.145.125, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-35.90.6.76-073, server: 35.90.6.76, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇱🇹LT-45.87.175.164-074, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-- {name: 🇱🇹LT-45.87.175.164-075, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+- {name: 🇺🇸US-34.222.65.155-072, server: 34.222.65.155, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇫🇷FR-51.15.15.82-073, server: 51.15.15.82, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+- {name: 🇺🇸US-194.5.215.59-074, server: 194.5.215.59, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+- {name: 🇰🇷KR-52.79.96.7-075, server: 52.79.96.7, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇺🇸US-35.85.136.7-076, server: 35.85.136.7, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-15.165.15.42-077, server: 15.165.15.42, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-211.178.105.134-077, server: 211.178.105.134, port: 51633, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
 - {name: 🇺🇸US-54.200.108.181-078, server: 54.200.108.181, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-35.95.28.198-079, server: 35.95.28.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-34.215.210.60-080, server: 34.215.210.60, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-52.78.107.95-081, server: 52.78.107.95, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇸🇬SG-46.137.229.233-082, server: 46.137.229.233, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇫🇷FR-51.15.15.82-083, server: 51.15.15.82, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🇭🇰HK-112.213.102.228-084, server: 112.213.102.228, port: 4231, type: ss, cipher: aes-256-cfb, password: "qwerREWQ@@"}
-- {name: 🇺🇸US-54.213.131.250-085, server: 54.213.131.250, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-52.79.96.7-086, server: 52.79.96.7, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇸🇬SG-54.169.214.126-087, server: 54.169.214.126, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-35.88.145.179-088, server: 35.88.145.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇯🇵JP-107.148.6.121-089, server: 107.148.6.121, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-- {name: 🇸🇬SG-47.129.228.204-090, server: 47.129.228.204, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-52.78.2.44-091, server: 52.78.2.44, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇹🇼TW-60.249.28.138-092, server: 60.249.28.138, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv}
-- {name: 🇸🇬SG-18.140.68.245-093, server: 18.140.68.245, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇸🇬SG-13.229.70.25-094, server: 13.229.70.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇮🇷IR-94.182.150.230-095, server: 94.182.150.230, port: 80, type: vmess, uuid: 2b7ce1d2-0372-4104-aa06-f7d999f26e1d, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 94.182.150.230}}
-- {name: 🇨🇳CN-223.113.54.230-096, server: lm.kaiqsz.com, port: 11735, type: trojan, password: 75e1e3ca-01c0-431d-a03b-836449aa973f, sni: yg01.redapricotcloud.com, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.224.80.37-097, server: 103.224.80.37, port: 11227, type: vmess, uuid: 0549b941-23f0-4802-ab15-264402d3b6be, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.224.80.37}}
-- {name: 🇨🇳CN-120.232.81.50-098, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD}
-- {name: 🇨🇳CN-120.232.153.63-099, server: 120.232.153.63, port: 40565, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.232.153.63}}
-- {name: 🇨🇳CN-120.198.71.173-100, server: wb.kaiqsz.com, port: 18147, type: trojan, password: 75e1e3ca-01c0-431d-a03b-836449aa973f, sni: mm2.redapricotcloud.com, skip-cert-verify: true}
-- {name: 🇯🇵JP-156.231.104.17-101, server: 156.231.104.17, port: 18007, type: ss, cipher: aes-256-gcm, password: Y7YAFIFIFLS9Z3PX}
-- {name: 🇯🇵JP-156.231.104.23-102, server: 156.231.104.23, port: 18013, type: ss, cipher: aes-256-gcm, password: EJ3GOLPLAAUX9WCY}
-- {name: 🇯🇵JP-156.231.104.12-103, server: 156.231.104.12, port: 18002, type: ss, cipher: aes-256-gcm, password: QFR3FSQMQRZL4HQ2}
-- {name: 🇸🇬SG-154.196.244.19-104, server: 154.196.244.19, port: 16009, type: ss, cipher: aes-256-gcm, password: DCCLUB5YPGIF01PJ}
-- {name: 🇸🇬SG-154.196.244.21-105, server: 154.196.244.21, port: 16011, type: ss, cipher: aes-256-gcm, password: 8VB49D7PPZFHBJES}
-- {name: 🇸🇬SG-154.196.244.23-106, server: 154.196.244.23, port: 16013, type: ss, cipher: aes-256-gcm, password: BCSHUPDQ1CGQ1W0Q}
-- {name: 🇺🇸US-23.185.248.17-107, server: 23.185.248.17, port: 17007, type: ss, cipher: aes-256-gcm, password: U3FEPWPAFNUWVVNR}
-- {name: 🇺🇸US-23.185.248.16-108, server: 23.185.248.16, port: 17006, type: ss, cipher: aes-256-gcm, password: OPF3DARDPEQ0166L}
-- {name: 🇺🇸US-23.185.248.14-109, server: 23.185.248.14, port: 17004, type: ss, cipher: aes-256-gcm, password: GS8Y0BJITHBHZWPE}
-- {name: 🇯🇵JP-57.180.41.158-110, server: 57.180.41.158, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇯🇵JP-43.206.253.217-111, server: 43.206.253.217, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇸🇬SG-54.255.22.224-112, server: 54.255.22.224, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇭🇰HK-103.224.80.37-113, server: 103.224.80.37, port: 11227, type: vmess, uuid: 0549b941-23f0-4802-ab15-264402d3b6be, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.224.80.37}}
-- {name: 🇨🇳CN-120.232.81.50-114, server: 120.232.81.50, port: 16088, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA}
-- {name: 🇨🇳CN-120.232.153.63-115, server: 120.232.153.63, port: 40565, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.232.153.63}}
-- {name: 🇯🇵JP-156.231.104.17-116, server: 156.231.104.17, port: 18007, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206WTdZQUZJRklGTFM5WjNQWA}
-- {name: 🇯🇵JP-156.231.104.23-117, server: 156.231.104.23, port: 18013, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206RUozR09MUExBQVVYOVdDWQ}
-- {name: 🇯🇵JP-156.231.104.12-118, server: 156.231.104.12, port: 18002, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UUZSM0ZTUU1RUlpMNEhRMg}
-- {name: 🇸🇬SG-154.196.244.19-119, server: 154.196.244.19, port: 16009, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206RENDTFVCNVlQR0lGMDFQSg}
-- {name: 🇸🇬SG-154.196.244.21-120, server: 154.196.244.21, port: 16011, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206OFZCNDlEN1BQWkZIQkpFUw}
-- {name: 🇸🇬SG-154.196.244.23-121, server: 154.196.244.23, port: 16013, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206QkNTSFVQRFExQ0dRMVcwUQ}
-- {name: 🇺🇸US-23.185.248.17-122, server: 23.185.248.17, port: 17007, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206VTNGRVBXUEFGTlVXVlZOUg}
-- {name: 🇺🇸US-23.185.248.16-123, server: 23.185.248.16, port: 17006, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206T1BGM0RBUkRQRVEwMTY2TA}
-- {name: 🇺🇸US-23.185.248.14-124, server: 23.185.248.14, port: 17004, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206R1M4WTBCSklUSEJIWldQRQ}
-- {name: 🇯🇵JP-57.180.41.158-125, server: 57.180.41.158, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
-- {name: 🇯🇵JP-43.206.253.217-126, server: 43.206.253.217, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
-- {name: 🇸🇬SG-54.255.22.224-127, server: 54.255.22.224, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
-- {name: 🇨🇳CN-219.135.231.205-128, server: 219.135.231.205, port: 21019, type: trojan, password: 20a84ebf-9341-4f5f-8245-3975e2fdeee5, skip-cert-verify: true}
-- {name: 🇨🇳CN-42.236.73.72-129, server: 42.236.73.72, port: 443, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: 42.236.73.72}}
-- {name: 🇨🇳CN-42.236.73.72-130, server: 42.236.73.72, port: 443, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: true}
-- {name: 🇻🇳VN-36.50.135.142-131, server: 36.50.135.142, port: 443, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, sni: bs1.loadingip.com, skip-cert-verify: true}
-- {name: 🇸🇬SG-43.134.34.18-132, server: 43.134.34.18, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇹🇼TW-103.137.63.3-133, server: 103.137.63.3, port: 443, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
-- {name: 🇰🇷KR-211.227.87.99-134, server: 211.227.87.99, port: 50000, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-121.186.173.204-135, server: 121.186.173.204, port: 10022, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-167.68.5.248-136, server: 167.68.5.248, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-118.45.113.48-137, server: 118.45.113.48, port: 16064, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-46.254.92.201-138, server: 46.254.92.201, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-121.180.184.145-139, server: 121.180.184.145, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-211.228.181.102-140, server: 211.228.181.102, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-119.194.117.229-141, server: 119.194.117.229, port: 50000, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-154.211.8.152-142, server: 154.211.8.152, port: 2053, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
-- {name: 🏁RELAY-213.109.205.55-143, server: 213.109.205.55, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-103.116.7.67-144, server: 103.116.7.67, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-176.124.223.40-145, server: 176.124.223.40, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.104-146, server: 108.165.152.104, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-103.116.7.103-147, server: 103.116.7.103, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-46.254.92.142-148, server: 46.254.92.142, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-45.153.7.216-149, server: 45.153.7.216, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-154.197.64.104-150, server: 154.197.64.104, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.214-151, server: 188.164.159.214, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.1-152, server: 108.165.152.1, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-154.197.64.206-153, server: 154.197.64.206, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-103.116.7.100-154, server: 103.116.7.100, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.239-155, server: 108.165.152.239, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.104-156, server: 108.165.152.104, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-112.162.68.10-157, server: 112.162.68.10, port: 50004, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇷🇺RU-45.67.215.250-158, server: 45.67.215.250, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.55-159, server: 108.165.152.55, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.228.50-160, server: 199.34.228.50, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-209.94.90.64-161, server: 209.94.90.64, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇷🇺RU-45.67.215.217-162, server: 45.67.215.217, port: 2087, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-162.120.94.232-163, server: 162.120.94.232, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-34.218.130.79-164, server: 34.218.130.79, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-161.145.150.26-165, server: 161.145.150.26, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-162.159.44.168-166, server: damien.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇭🇰HK-91.217.139.222-167, server: 91.217.139.222, port: 587, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.25-168, server: 188.164.159.25, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-31.43.179.27-169, server: 31.43.179.27, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-172.64.33.128-170, server: kip.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-5.182.84.52-171, server: 5.182.84.52, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇸🇬SG-43.156.253.94-172, server: 43.156.253.94, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-103.116.7.133-173, server: 103.116.7.133, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-167.68.4.10-174, server: 167.68.4.10, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-5.182.84.22-175, server: 5.182.84.22, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-154.26.179.89-176, server: 154.26.179.89, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-52.41.218.4-177, server: 52.41.218.4, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-135.84.76.152-178, server: 135.84.76.152, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.228.187-179, server: 199.34.228.187, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇸🇬SG-206.238.236.137-180, server: 206.238.236.137, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-35.167.93.200-181, server: 35.167.93.200, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-162.159.44.199-182, server: pranab.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-198.62.62.192-183, server: 198.62.62.192, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-211.252.12.227-184, server: 211.252.12.227, port: 50000, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.228.187-185, server: 199.34.228.187, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇫🇷FR-51.44.86.78-186, server: 51.44.86.78, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇹🇼TW-103.137.63.3-187, server: 103.137.63.3, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.241-188, server: 188.164.159.241, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-35.81.207.167-189, server: 35.81.207.167, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇹🇼TW-103.137.63.3-190, server: 103.137.63.3, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-3.64.205.189-191, server: 3.64.205.189, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.248-192, server: 188.164.159.248, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-168.126.66.181-193, server: 168.126.66.181, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-45.155.121.169-194, server: 45.155.121.169, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-146.190.212.149-195, server: t35.emoyes.top, port: 265, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
-- {name: 🇮🇪IE-52.214.246.177-196, server: 52.214.246.177, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇳🇱NL-77.238.236.134-197, server: 77.238.236.134, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-45.134.21.8-198, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-218.151.99.167-199, server: 218.151.99.167, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-220.78.106.96-200, server: 220.78.106.96, port: 50000, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-45.134.21.8-201, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-185.204.109.190-202, server: 185.204.109.190, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-183.103.167.69-203, server: 183.103.167.69, port: 21285, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇫🇷FR-35.181.77.67-204, server: 35.181.77.67, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-218.154.47.250-205, server: 218.154.47.250, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-3.122.86.99-206, server: 3.122.86.99, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-3.124.196.164-207, server: 3.124.196.164, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-154.219.5.249-208, server: 154.219.5.249, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-134.209.235.149-209, server: t38.emoyes.top, port: 260, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
-- {name: 🇩🇪DE-3.75.149.151-210, server: 3.75.149.151, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-135.84.74.27-211, server: 135.84.74.27, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-160.79.104.131-212, server: 160.79.104.131, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-35.155.38.149-213, server: 35.155.38.149, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇸🇬SG-206.238.236.16-214, server: 206.238.236.16, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-18.153.94.168-215, server: 18.153.94.168, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.228.164-216, server: 199.34.228.164, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-130.250.137.63-217, server: 130.250.137.63, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-135.84.64.36-218, server: 135.84.64.36, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.76-219, server: 108.165.152.76, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-192.200.160.15-220, server: 192.200.160.15, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-45.59.187.105-221, server: 45.59.187.105, port: 26443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-194.164.35.192-222, server: 194.164.35.192, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-134.209.235.149-223, server: t39.emoyes.top, port: 659, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
-- {name: 🏁RELAY-46.254.93.52-224, server: 46.254.93.52, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-23.165.40.87-225, server: 23.165.40.87, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇪🇸ES-45.86.229.28-226, server: 45.86.229.28, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-91.107.253.14-227, server: 91.107.253.14, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇦🇶GOOGLE-34.68.11.207-228, server: 34.68.11.207, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-91.107.253.14-229, server: 91.107.253.14, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇸🇪SE-13.61.222.70-230, server: 13.61.222.70, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇰🇷KR-118.35.88.114-231, server: 118.35.88.114, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.228.190-232, server: 199.34.228.190, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.185-233, server: 188.164.159.185, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-63.141.128.66-234, server: 63.141.128.66, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-51.116.121.75-235, server: 51.116.121.75, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-192.200.160.19-236, server: 192.200.160.19, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-146.190.212.149-237, server: t34.emoyes.top, port: 667, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
-- {name: 🇺🇸US-199.34.228.143-238, server: 199.34.228.143, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇨🇭CH-51.107.9.31-239, server: 51.107.9.31, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-54.213.215.13-240, server: 54.213.215.13, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-109.234.39.115-241, server: 109.234.39.115, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇱🇻LV-91.197.3.168-242, server: 91.197.3.168, port: 8443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇻🇳VN-103.173.66.191-243, server: 103.173.66.191, port: 443, type: trojan, password: 5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad, skip-cert-verify: true}
-- {name: 🇳🇱NL-45.134.21.8-244, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-35.155.38.149-245, server: 35.155.38.149, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-154.211.8.18-246, server: 154.211.8.18, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-92.53.190.161-247, server: 92.53.190.161, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇻🇳VN-160.19.78.75-248, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA}
-- {name: 🏁RELAY-154.211.8.18-249, server: 154.211.8.18, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.29-250, server: 108.165.152.29, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-106.240.1.52-251, server: 106.240.1.52, port: 20443, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
-- {name: 🇩🇪DE-3.73.124.222-252, server: 3.73.124.222, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-108.165.152.29-253, server: 108.165.152.29, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-52.32.90.142-254, server: 52.32.90.142, port: 80, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-115.23.249.80-255, server: 115.23.249.80, port: 16039, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-5.182.86.252-256, server: 5.182.86.252, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇷🇺RU-89.248.207.37-257, server: 89.248.207.37, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-45.147.50.154-258, server: 45.147.50.154, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇫🇷FR-51.44.86.78-259, server: 51.44.86.78, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-192.200.160.169-260, server: 192.200.160.169, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-178.128.198.120-261, server: 178.128.198.120, port: 8443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇰🇷KR-211.217.26.23-262, server: 211.217.26.23, port: 20256, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.45-263, server: 188.164.159.45, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-192.0.54.221-264, server: 192.0.54.221, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-5.182.84.52-265, server: 5.182.84.52, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-178.128.198.120-266, server: 178.128.198.120, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇮🇹IT-91.193.5.121-267, server: 91.193.5.121, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇹🇷TR-78.135.110.152-268, server: 78.135.110.152, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇮🇹IT-91.193.5.121-269, server: 91.193.5.121, port: 8443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-216.24.57.186-270, server: 216.24.57.186, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-192.0.54.7-271, server: 192.0.54.7, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-192.200.160.109-272, server: 192.200.160.109, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇫🇷FR-51.44.86.78-273, server: 51.44.86.78, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇩🇪DE-45.147.50.154-274, server: 45.147.50.154, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-194.164.32.27-275, server: 194.164.32.27, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-27.50.49.166-276, server: 27.50.49.166, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇷🇺RU-45.67.215.250-277, server: 45.67.215.250, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-154.211.8.152-278, server: 154.211.8.152, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-3.132.116.250-279, server: 3.132.116.250, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-209.208.227.79-280, server: 209.208.227.79, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-107.174.79.149-281, server: 107.174.79.149, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-103.116.7.103-282, server: 103.116.7.103, port: 2083, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
-- {name: 🇰🇷KR-125.142.156.70-283, server: 125.142.156.70, port: 50000, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇷🇺RU-178.250.159.120-284, server: 178.250.159.120, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.55-285, server: 188.164.159.55, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-103.116.7.103-286, server: 103.116.7.103, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-104.129.166.131-287, server: 104.129.166.131, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-92.243.74.180-288, server: 92.243.74.180, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-198.62.62.192-289, server: 198.62.62.192, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-23.169.184.28-290, server: 23.169.184.28, port: 13800, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-213.109.205.45-291, server: 213.109.205.45, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-154.197.64.173-292, server: 154.197.64.173, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-167.68.4.223-293, server: 167.68.4.223, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.25-294, server: 188.164.159.25, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-141.11.203.168-295, server: 141.11.203.168, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-154.197.64.206-296, server: 154.197.64.206, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-176.53.144.206-297, server: 176.53.144.206, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-5.182.84.229-298, server: 5.182.84.229, port: 2087, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇺🇸US-216.24.57.207-299, server: 216.24.57.207, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-188.164.159.248-300, server: 188.164.159.248, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-213.241.198.189-301, server: 213.241.198.189, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🏁RELAY-167.68.4.199-302, server: 167.68.4.199, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
-- {name: 🇳🇱NL-193.29.139.179-303, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-- {name: 🇳🇱NL-193.29.139.179-304, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-- {name: 🇳🇱NL-103.104.247.47-305, server: 103.104.247.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-- {name: 🇷🇺RU-46.17.42.248-306, server: 46.17.42.248, port: 23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
-- {name: 🇰🇷KR-52.79.56.225-307, server: 52.79.56.225, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-43.201.29.47-308, server: 43.201.29.47, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-52.79.157.153-309, server: 52.79.157.153, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-54.244.81.162-310, server: 54.244.81.162, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇸🇬SG-13.229.212.209-311, server: 13.229.212.209, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-54.213.164.80-312, server: 54.213.164.80, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-54.202.75.206-313, server: 54.202.75.206, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-43.203.218.87-314, server: 43.203.218.87, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-13.125.37.249-315, server: 13.125.37.249, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-13.125.158.71-316, server: 13.125.158.71, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇰🇷KR-43.201.254.211-317, server: 43.201.254.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇺🇸US-34.217.179.211-318, server: 34.217.179.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇦🇺AU-20.213.20.185-319, server: 20.213.20.185, port: 17718, type: vmess, uuid: c206e022-34c6-4fe3-a232-b9c07ba3165d, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 20.213.20.185}}
-- {name: 🏁RELAY-104.21.80.1-320, server: br.899994.xyz, port: 443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: br.899994.xyz}}
-- {name: 🏁RELAY-104.19.150.10-321, server: 104.19.150.10, port: 2095, type: vmess, uuid: 94f332b0-c5d3-4531-a1d6-6e6358cc6c72, alterId: 0, cipher: auto, skip-cert-verify: true, network: httpupgrade, ws-path: "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560", tls: false, ws-headers: {Host: mci.mtn.ir.com.org.net.om2.musicfa123.ir.}}
-- {name: 🏁RELAY-172.67.153.156-322, server: ovhwuxian.pai50288.uk, port: 8443, type: vmess, uuid: 86455bfc-dd02-4a3b-9f03-7668f39375d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: ovhwuxian.pai50288.uk}}
-- {name: 🏁RELAY-172.67.153.156-323, server: 172.67.153.156, port: 8443, type: vmess, uuid: 86455bfc-dd02-4a3b-9f03-7668f39375d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: ovhwuxian.pai50288.uk}}
-- {name: 🇨🇭CH-23.166.88.183-324, server: 23.166.88.183, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 23.166.88.183}}
-- {name: 🇩🇪DE-18.159.68.55-325, server: 18.159.68.55, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇮🇷IR-94.182.150.230-326, server: 94.182.150.230, port: 80, type: vmess, uuid: 2b7ce1d2-0372-4104-aa06-f7d999f26e1d, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 94.182.150.230}}
-- {name: 🇩🇪DE-159.69.120.98-327, server: 159.69.120.98, port: 41391, type: vmess, uuid: b5c3e2e8-dfb6-4a0a-b656-87e997610785, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 159.69.120.98}}
-- {name: 🇩🇪DE-188.245.100.168-328, server: 188.245.100.168, port: 18926, type: vmess, uuid: 7ff9d116-95a9-4272-acc8-0db83168f4d0, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 188.245.100.168}}
-- {name: 🇩🇪DE-188.245.100.168-329, server: 188.245.100.168, port: 18926, type: vmess, uuid: 7ff9d116-95a9-4272-acc8-0db83168f4d0, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 188.245.100.168}}
-- {name: 🇮🇷IR-94.182.150.230-330, server: 94.182.150.230, port: 80, type: vmess, uuid: 2b7ce1d2-0372-4104-aa06-f7d999f26e1d, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 94.182.150.230}}
-- {name: 🇫🇷FR-35.181.27.38-331, server: 35.181.27.38, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🏁RELAY-104.17.148.22-332, server: www.speedtest.net, port: 80, type: vmess, uuid: 368bf030-db51-11ef-b336-205c6d5f5d78, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: eu-2.hihu.net}}
-- {name: 🇫🇷FR-146.19.168.161-333, server: 146.19.168.161, port: 443, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /link, tls: true, ws-headers: {Host: az05.beyondy.cfd}}
-- {name: 🏁RELAY-172.67.200.13-334, server: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top, port: 443, type: vmess, uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /azumase.ren, tls: true, ws-headers: {Host: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top}}
-- {name: 🇫🇷FR-146.19.168.161-335, server: az05.beyondy.cfd, port: 443, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /link, tls: true, ws-headers: {Host: az05.beyondy.cfd}}
-- {name: 🇫🇷FR-45.145.167.103-336, server: indiavideo.sbs, port: 443, type: vmess, uuid: 425c5e6e-30a0-4984-8a13-ee6f72053162, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkws, tls: true, ws-headers: {Host: indiavideo.sbs}}
-- {name: 🇫🇷FR-163.5.159.231-337, server: irvideo.cfd, port: 443, type: vmess, uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkws, tls: true, ws-headers: {Host: irvideo.cfd}}
-- {name: 🏁RELAY-104.21.96.1-338, server: 104.21.96.1, port: 8443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: nl.899994.xyz}}
-- {name: 🇫🇷FR-45.145.167.103-339, server: 45.145.167.103, port: 443, type: vmess, uuid: 425c5e6e-30a0-4984-8a13-ee6f72053162, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkws, tls: true, ws-headers: {Host: indiavideo.sbs}}
-- {name: 🇫🇷FR-146.19.168.161-340, server: 146.19.168.161, port: 443, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /link, tls: true, ws-headers: {Host: az05.beyondy.cfd}}
-- {name: 🏁RELAY-104.17.147.22-341, server: www.speedtest.net, port: 443, type: vmess, uuid: f2c8a660-dfa9-11ef-b436-205c6d5f5d78, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /eh1xs5ol, tls: true, ws-headers: {Host: eu-2.hihu.net}}
-- {name: 🇬🇧GB-161.35.34.48-342, server: 161.35.34.48, port: 443, type: trojan, password: 2cba4104747d49d18319e5ade1b93ab5, sni: yourjobnavigator.online, skip-cert-verify: true}
-- {name: 🇭🇰HK-103.149.183.178-343, server: 103.149.183.178, port: 27512, type: vmess, uuid: 96d38683-0817-4d91-bffa-6f03df18d9dc, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.149.183.178}}
-- {name: 🇭🇰HK-103.149.183.178-344, server: 103.149.183.178, port: 54675, type: vmess, uuid: 3a907956-f668-4e6b-ea03-0949f0c9c0a5, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.149.183.178}}
-- {name: 🇭🇰HK-118.193.33.237-345, server: 118.193.33.237, port: 40908, type: vmess, uuid: 43740b3d-16b7-4d31-cf20-f1eab5e35bc9, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.33.237}}
-- {name: 🇭🇰HK-118.193.34.158-346, server: 118.193.34.158, port: 52825, type: vmess, uuid: 67ff500a-8484-4ed8-cf8f-b8d341534140, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.34.158}}
-- {name: 🇭🇰HK-118.193.34.236-347, server: 118.193.34.236, port: 13688, type: vmess, uuid: 93127065-1a5b-4816-d009-5bf5e0aa10b6, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.34.236}}
-- {name: 🇭🇰HK-118.193.38.173-348, server: 118.193.38.173, port: 21066, type: vmess, uuid: f11cf8ff-89b3-4c4c-fdf8-b47111d852d8, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.38.173}}
-- {name: 🇭🇰HK-118.193.39.104-349, server: 118.193.39.104, port: 15366, type: vmess, uuid: 30d50840-88b1-474b-a17f-9fca177918d2, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.39.104}}
-- {name: 🇯🇵JP-152.69.197.60-350, server: 152.69.197.60, port: 1069, type: vmess, uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 152.69.197.60}}
-- {name: 🇯🇵JP-156.246.94.94-351, server: 156.246.94.94, port: 433, type: vmess, uuid: bebdb5c1-e0cb-4319-b614-a0581fdd3158, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 156.246.94.94}}
-- {name: 🏁RELAY-104.21.64.1-352, server: tokyo.899994.xyz, port: 443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: tokyo.899994.xyz}}
-- {name: 🇲🇽MX-79.127.229.54-353, server: 79.127.229.54, port: 18000, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 79.127.229.54}}
-- {name: 🇲🇽MX-79.127.229.54-354, server: 79.127.229.54, port: 18000, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 79.127.229.54}}
-- {name: 🇳🇱NL-154.47.21.27-355, server: 154.47.21.27, port: 8099, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 154.47.21.27}}
-- {name: 🇸🇬SG-139.59.119.143-356, server: 139.59.119.143, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: connectwithemployers.online, skip-cert-verify: true}
-- {name: 🇸🇬SG-18.141.59.72-357, server: 18.141.59.72, port: 443, type: trojan, password: 3760559353321758720, sni: dear-sunbeam.treefrog761.one, skip-cert-verify: true}
-- {name: 🇸🇬SG-52.77.5.246-358, server: 52.77.5.246, port: 443, type: trojan, password: 3763495894587285504, sni: saved-caribou.treefrog761.one, skip-cert-verify: true}
-- {name: 🇸🇬SG-52.74.96.243-359, server: 52.74.96.243, port: 443, type: trojan, password: 3763495982449565696, sni: square-walleye.treefrog761.one, skip-cert-verify: true}
-- {name: 🏁RELAY-104.21.42.243-360, server: sgfqkqmltcy.site, port: 443, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /rbqqvws, tls: true, ws-headers: {Host: sgfqkqmltcy.site}}
-- {name: 🏁RELAY-104.16.83.43-361, server: 104.16.83.43, port: 443, type: trojan, password: Ng35283528, sni: c2.validbv3528.eu.org, ws-path: "h=%2F%3Fed%3D2560", skip-cert-verify: true}
-- {name: 🇺🇸US-18.206.145.45-362, server: 18.206.145.45, port: 443, type: trojan, password: 3767107462583558144, sni: warm-rabbit.goat627.mom, skip-cert-verify: true}
-- {name: 🇺🇸US-192.9.132.79-363, server: 192.9.132.79, port: 443, type: trojan, password: 696cfe79, sni: sje.5216818.xyz, skip-cert-verify: true}
-- {name: 🇺🇸US-154.17.26.150-364, server: 154.17.26.150, port: 28331, type: trojan, password: C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag, sni: deliver.missionsec.io, skip-cert-verify: true}
-- {name: 🇺🇸US-154.17.24.29-365, server: 154.17.24.29, port: 443, type: trojan, password: x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj, sni: imprint.freetrade.link, skip-cert-verify: true}
-- {name: 🇺🇸US-45.76.249.12-366, server: 45.76.249.12, port: 8881, type: vmess, uuid: db5afae4-ac23-41a6-8378-f307a9a47436, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: moi.ir}}
-- {name: 🇺🇸US-45.76.249.12-367, server: 45.76.249.12, port: 8881, type: vmess, uuid: db5afae4-ac23-41a6-8378-f307a9a47436, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: moi.ir}}
-- {name: 🏁RELAY-104.16.155.10-368, server: 104.16.155.10, port: 2095, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.20.27.115, tls: false, ws-headers: {Host: 100-209-47-141.s2.db-link02.top}}
-- {name: 🏁RELAY-104.17.221.248-369, server: 104.17.221.248, port: 2086, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.17.154.223, tls: false, ws-headers: {Host: 100-48-202-143.s1.db-link01.top}}
-- {name: 🏁RELAY-172.64.80.1-370, server: lamusa.daozhang.site, port: 8880, type: vmess, uuid: 1c1cb7fe-a929-4e47-b292-4073b63d2d4b, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: lamusa.daozhang.site}}
-- {name: 🏁RELAY-198.41.209.70-371, server: s1.cn-db.top, port: 80, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.64.34.18, tls: false, ws-headers: {Host: 100-215-151-174.s1.cn-db.top}}
-- {name: 🏁RELAY-104.16.155.10-372, server: s1.db-link01.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.67.95.35, tls: false, ws-headers: {Host: 100-250-32-53.s1.db-link01.top}}
-- {name: 🏁RELAY-104.19.48.236-373, server: s1.db-link01.top, port: 80, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.67.102.198, tls: false, ws-headers: {Host: 100-223-174-216.s1.db-link01.top}}
-- {name: 🏁RELAY-104.19.48.236-374, server: s1.db-link01.top, port: 8080, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.64.55.203, tls: false, ws-headers: {Host: 100-79-28-26.s1.db-link01.top}}
-- {name: 🏁RELAY-198.41.209.70-375, server: s1.db-link02.top, port: 8080, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.21.151.202, tls: false, ws-headers: {Host: 100-213-61-102.s1.db-link02.top}}
-- {name: 🏁RELAY-104.17.213.241-376, server: s1.db-link02.top, port: 2086, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.64.9.208, tls: false, ws-headers: {Host: 100-223-71-166.s1.db-link02.top}}
-- {name: 🏁RELAY-198.41.209.70-377, server: s2.cn-db.top, port: 2086, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.18.128.173, tls: false, ws-headers: {Host: 100-28-190-253.s2.cn-db.top}}
-- {name: 🏁RELAY-104.17.213.241-378, server: s4.db-link01.top, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.248.188, tls: false, ws-headers: {Host: 100-4-150-250.s4.db-link01.top}}
-- {name: 🏁RELAY-104.16.155.10-379, server: s4.db-link02.top, port: 80, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.16.143.58, tls: false, ws-headers: {Host: 100-169-14-13.s4.db-link02.top}}
-- {name: 🏁RELAY-104.17.213.241-380, server: s5.cn-db.top, port: 2095, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.67.127.124, tls: false, ws-headers: {Host: 100-27-240-19.s5.cn-db.top}}
-- {name: 🏁RELAY-104.17.213.241-381, server: s5.db-link01.top, port: 2086, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.20.74.23, tls: false, ws-headers: {Host: 100-252-227-152.s5.db-link01.top}}
-- {name: 🏁RELAY-104.17.213.241-382, server: 104.17.213.241, port: 2095, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.24.248.64, tls: false, ws-headers: {Host: 100-33-108-197.s1.db-link02.top}}
-- {name: 🏁RELAY-104.19.48.236-383, server: 104.19.48.236, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.248.188, tls: false, ws-headers: {Host: 100-4-150-250.s4.db-link01.top}}
-- {name: 🏁RELAY-104.19.48.236-384, server: 104.19.48.236, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.248.188, tls: false, ws-headers: {Host: 100-4-150-250.s4.db-link01.top}}
-- {name: 🇺🇸US-2.58.87.221-385, server: 2.58.87.221, port: 12269, type: vmess, uuid: db85ff0e-c33f-401d-c415-4c7cce135704, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 2.58.87.221}}
-- {name: 🇺🇸US-2.58.87.221-386, server: 2.58.87.221, port: 12269, type: vmess, uuid: db85ff0e-c33f-401d-c415-4c7cce135704, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 2.58.87.221}}
-- {name: 🏁RELAY-172.67.189.80-387, server: northflank.107421.xyz, port: 443, type: vmess, uuid: de04add9-5c68-8bab-950c-08cd5320df18, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /vmess, tls: true, ws-headers: {Host: northflank.107421.xyz}}
-- {name: 🏁RELAY-104.21.48.1-388, server: portland.899994.xyz, port: 8443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: portland.899994.xyz}}
+- {name: 🇺🇸US-34.215.210.60-079, server: 34.215.210.60, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇸🇬SG-18.140.69.216-080, server: 18.140.69.216, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇸🇬SG-54.169.216.161-081, server: 54.169.216.161, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇸🇬SG-54.254.91.60-082, server: 54.254.91.60, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇸🇬SG-54.169.214.126-083, server: 54.169.214.126, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇸🇬SG-13.229.70.25-084, server: 13.229.70.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇨🇳CN-223.113.54.230-085, server: lm.kaiqsz.com, port: 11735, type: trojan, password: 75e1e3ca-01c0-431d-a03b-836449aa973f, sni: yg01.redapricotcloud.com, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.224.80.37-086, server: 103.224.80.37, port: 11227, type: vmess, uuid: 0549b941-23f0-4802-ab15-264402d3b6be, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.224.80.37}}
+- {name: 🇨🇳CN-120.232.81.50-087, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD}
+- {name: 🇨🇳CN-120.232.153.63-088, server: 120.232.153.63, port: 40565, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.232.153.63}}
+- {name: 🇨🇳CN-223.113.54.230-089, server: wb.kaiqsz.com, port: 18147, type: trojan, password: 75e1e3ca-01c0-431d-a03b-836449aa973f, sni: mm2.redapricotcloud.com, skip-cert-verify: true}
+- {name: 🇯🇵JP-156.231.104.17-090, server: 156.231.104.17, port: 18007, type: ss, cipher: aes-256-gcm, password: Y7YAFIFIFLS9Z3PX}
+- {name: 🇯🇵JP-156.231.104.23-091, server: 156.231.104.23, port: 18013, type: ss, cipher: aes-256-gcm, password: EJ3GOLPLAAUX9WCY}
+- {name: 🇯🇵JP-156.231.104.12-092, server: 156.231.104.12, port: 18002, type: ss, cipher: aes-256-gcm, password: QFR3FSQMQRZL4HQ2}
+- {name: 🇸🇬SG-154.196.244.19-093, server: 154.196.244.19, port: 16009, type: ss, cipher: aes-256-gcm, password: DCCLUB5YPGIF01PJ}
+- {name: 🇸🇬SG-154.196.244.21-094, server: 154.196.244.21, port: 16011, type: ss, cipher: aes-256-gcm, password: 8VB49D7PPZFHBJES}
+- {name: 🇸🇬SG-154.196.244.23-095, server: 154.196.244.23, port: 16013, type: ss, cipher: aes-256-gcm, password: BCSHUPDQ1CGQ1W0Q}
+- {name: 🇺🇸US-23.185.248.17-096, server: 23.185.248.17, port: 17007, type: ss, cipher: aes-256-gcm, password: U3FEPWPAFNUWVVNR}
+- {name: 🇺🇸US-23.185.248.16-097, server: 23.185.248.16, port: 17006, type: ss, cipher: aes-256-gcm, password: OPF3DARDPEQ0166L}
+- {name: 🇺🇸US-23.185.248.14-098, server: 23.185.248.14, port: 17004, type: ss, cipher: aes-256-gcm, password: GS8Y0BJITHBHZWPE}
+- {name: 🇯🇵JP-57.180.41.158-099, server: 57.180.41.158, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇯🇵JP-43.206.253.217-100, server: 43.206.253.217, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇸🇬SG-54.255.22.224-101, server: 54.255.22.224, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇭🇰HK-103.224.80.37-102, server: 103.224.80.37, port: 11227, type: vmess, uuid: 0549b941-23f0-4802-ab15-264402d3b6be, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.224.80.37}}
+- {name: 🇨🇳CN-120.232.81.50-103, server: 120.232.81.50, port: 16088, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA}
+- {name: 🇨🇳CN-120.232.153.63-104, server: 120.232.153.63, port: 40565, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.232.153.63}}
+- {name: 🇯🇵JP-156.231.104.17-105, server: 156.231.104.17, port: 18007, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206WTdZQUZJRklGTFM5WjNQWA}
+- {name: 🇯🇵JP-156.231.104.23-106, server: 156.231.104.23, port: 18013, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206RUozR09MUExBQVVYOVdDWQ}
+- {name: 🇯🇵JP-156.231.104.12-107, server: 156.231.104.12, port: 18002, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UUZSM0ZTUU1RUlpMNEhRMg}
+- {name: 🇸🇬SG-154.196.244.19-108, server: 154.196.244.19, port: 16009, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206RENDTFVCNVlQR0lGMDFQSg}
+- {name: 🇸🇬SG-154.196.244.21-109, server: 154.196.244.21, port: 16011, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206OFZCNDlEN1BQWkZIQkpFUw}
+- {name: 🇸🇬SG-154.196.244.23-110, server: 154.196.244.23, port: 16013, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206QkNTSFVQRFExQ0dRMVcwUQ}
+- {name: 🇺🇸US-23.185.248.17-111, server: 23.185.248.17, port: 17007, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206VTNGRVBXUEFGTlVXVlZOUg}
+- {name: 🇺🇸US-23.185.248.16-112, server: 23.185.248.16, port: 17006, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206T1BGM0RBUkRQRVEwMTY2TA}
+- {name: 🇺🇸US-23.185.248.14-113, server: 23.185.248.14, port: 17004, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206R1M4WTBCSklUSEJIWldQRQ}
+- {name: 🇯🇵JP-57.180.41.158-114, server: 57.180.41.158, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
+- {name: 🇯🇵JP-43.206.253.217-115, server: 43.206.253.217, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
+- {name: 🇸🇬SG-54.255.22.224-116, server: 54.255.22.224, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
+- {name: 🇨🇳CN-219.135.231.205-117, server: 219.135.231.205, port: 21019, type: trojan, password: 20a84ebf-9341-4f5f-8245-3975e2fdeee5, skip-cert-verify: true}
+- {name: 🇨🇳CN-42.236.73.72-118, server: 42.236.73.72, port: 443, type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: 42.236.73.72}}
+- {name: 🇨🇳CN-42.236.73.72-119, server: 42.236.73.72, port: 443, type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: true}
+- {name: 🇻🇳VN-36.50.135.142-120, server: 36.50.135.142, port: 443, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, sni: bs1.loadingip.com, skip-cert-verify: true}
+- {name: 🇸🇬SG-43.134.34.18-121, server: 43.134.34.18, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇹🇼TW-103.137.63.3-122, server: 103.137.63.3, port: 443, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
+- {name: 🇰🇷KR-211.227.87.99-123, server: 211.227.87.99, port: 50000, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-121.186.173.204-124, server: 121.186.173.204, port: 10022, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-167.68.5.248-125, server: 167.68.5.248, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-118.45.113.48-126, server: 118.45.113.48, port: 16064, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-46.254.92.201-127, server: 46.254.92.201, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-121.180.184.145-128, server: 121.180.184.145, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-211.228.181.102-129, server: 211.228.181.102, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-119.194.117.229-130, server: 119.194.117.229, port: 50000, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-154.211.8.152-131, server: 154.211.8.152, port: 2053, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
+- {name: 🏁RELAY-213.109.205.55-132, server: 213.109.205.55, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-103.116.7.67-133, server: 103.116.7.67, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-176.124.223.40-134, server: 176.124.223.40, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.104-135, server: 108.165.152.104, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-103.116.7.103-136, server: 103.116.7.103, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-46.254.92.142-137, server: 46.254.92.142, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-45.153.7.216-138, server: 45.153.7.216, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-154.197.64.104-139, server: 154.197.64.104, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.214-140, server: 188.164.159.214, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.1-141, server: 108.165.152.1, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-154.197.64.206-142, server: 154.197.64.206, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-103.116.7.100-143, server: 103.116.7.100, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.239-144, server: 108.165.152.239, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.104-145, server: 108.165.152.104, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-112.162.68.10-146, server: 112.162.68.10, port: 50004, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇷🇺RU-45.67.215.250-147, server: 45.67.215.250, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.55-148, server: 108.165.152.55, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.228.50-149, server: 199.34.228.50, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-209.94.90.64-150, server: 209.94.90.64, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇷🇺RU-45.67.215.217-151, server: 45.67.215.217, port: 2087, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-162.120.94.232-152, server: 162.120.94.232, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-34.218.130.79-153, server: 34.218.130.79, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-161.145.150.26-154, server: 161.145.150.26, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.162.195.168-155, server: damien.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇭🇰HK-91.217.139.222-156, server: 91.217.139.222, port: 587, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.25-157, server: 188.164.159.25, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-31.43.179.27-158, server: 31.43.179.27, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-173.245.59.128-159, server: kip.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-5.182.84.52-160, server: 5.182.84.52, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇸🇬SG-43.156.253.94-161, server: 43.156.253.94, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-103.116.7.133-162, server: 103.116.7.133, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-167.68.4.10-163, server: 167.68.4.10, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-5.182.84.22-164, server: 5.182.84.22, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-154.26.179.89-165, server: 154.26.179.89, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-52.41.218.4-166, server: 52.41.218.4, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-135.84.76.152-167, server: 135.84.76.152, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.228.187-168, server: 199.34.228.187, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇸🇬SG-206.238.236.137-169, server: 206.238.236.137, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-35.167.93.200-170, server: 35.167.93.200, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-162.159.44.199-171, server: pranab.ns.cloudflare.com, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-198.62.62.192-172, server: 198.62.62.192, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-211.252.12.227-173, server: 211.252.12.227, port: 50000, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.228.187-174, server: 199.34.228.187, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇫🇷FR-51.44.86.78-175, server: 51.44.86.78, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇹🇼TW-103.137.63.3-176, server: 103.137.63.3, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.241-177, server: 188.164.159.241, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-35.81.207.167-178, server: 35.81.207.167, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇹🇼TW-103.137.63.3-179, server: 103.137.63.3, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-3.64.205.189-180, server: 3.64.205.189, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.248-181, server: 188.164.159.248, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-168.126.66.181-182, server: 168.126.66.181, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-45.155.121.169-183, server: 45.155.121.169, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-146.190.212.149-184, server: t35.emoyes.top, port: 265, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
+- {name: 🇮🇪IE-52.214.246.177-185, server: 52.214.246.177, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇳🇱NL-77.238.236.134-186, server: 77.238.236.134, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-45.134.21.8-187, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-218.151.99.167-188, server: 218.151.99.167, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-220.78.106.96-189, server: 220.78.106.96, port: 50000, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-45.134.21.8-190, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-185.204.109.190-191, server: 185.204.109.190, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-183.103.167.69-192, server: 183.103.167.69, port: 21285, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇫🇷FR-35.181.77.67-193, server: 35.181.77.67, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-218.154.47.250-194, server: 218.154.47.250, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-3.122.86.99-195, server: 3.122.86.99, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-3.124.196.164-196, server: 3.124.196.164, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-154.219.5.249-197, server: 154.219.5.249, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-134.209.235.149-198, server: t38.emoyes.top, port: 260, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
+- {name: 🇩🇪DE-3.75.149.151-199, server: 3.75.149.151, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-135.84.74.27-200, server: 135.84.74.27, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-160.79.104.131-201, server: 160.79.104.131, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-35.155.38.149-202, server: 35.155.38.149, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇸🇬SG-206.238.236.16-203, server: 206.238.236.16, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-18.153.94.168-204, server: 18.153.94.168, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.228.164-205, server: 199.34.228.164, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-130.250.137.63-206, server: 130.250.137.63, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-135.84.64.36-207, server: 135.84.64.36, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.76-208, server: 108.165.152.76, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-192.200.160.15-209, server: 192.200.160.15, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-45.59.187.105-210, server: 45.59.187.105, port: 26443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-194.164.35.192-211, server: 194.164.35.192, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-134.209.235.149-212, server: t39.emoyes.top, port: 659, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
+- {name: 🏁RELAY-46.254.93.52-213, server: 46.254.93.52, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-23.165.40.87-214, server: 23.165.40.87, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇪🇸ES-45.86.229.28-215, server: 45.86.229.28, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-91.107.253.14-216, server: 91.107.253.14, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇦🇶GOOGLE-34.68.11.207-217, server: 34.68.11.207, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-91.107.253.14-218, server: 91.107.253.14, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇸🇪SE-13.61.222.70-219, server: 13.61.222.70, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇰🇷KR-118.35.88.114-220, server: 118.35.88.114, port: 50000, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.228.190-221, server: 199.34.228.190, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.185-222, server: 188.164.159.185, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-63.141.128.66-223, server: 63.141.128.66, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-51.116.121.75-224, server: 51.116.121.75, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-192.200.160.19-225, server: 192.200.160.19, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-146.190.212.149-226, server: t34.emoyes.top, port: 667, type: trojan, password: c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf, sni: www.python.org, skip-cert-verify: true}
+- {name: 🇺🇸US-199.34.228.143-227, server: 199.34.228.143, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇨🇭CH-51.107.9.31-228, server: 51.107.9.31, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-54.213.215.13-229, server: 54.213.215.13, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-109.234.39.115-230, server: 109.234.39.115, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇱🇻LV-91.197.3.168-231, server: 91.197.3.168, port: 8443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇻🇳VN-103.173.66.191-232, server: 103.173.66.191, port: 443, type: trojan, password: 5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad, skip-cert-verify: true}
+- {name: 🇳🇱NL-45.134.21.8-233, server: 45.134.21.8, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-35.155.38.149-234, server: 35.155.38.149, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-154.211.8.18-235, server: 154.211.8.18, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-92.53.190.161-236, server: 92.53.190.161, port: 2087, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇻🇳VN-160.19.78.75-237, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA}
+- {name: 🏁RELAY-154.211.8.18-238, server: 154.211.8.18, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.29-239, server: 108.165.152.29, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-106.240.1.52-240, server: 106.240.1.52, port: 20443, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
+- {name: 🇩🇪DE-3.73.124.222-241, server: 3.73.124.222, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-108.165.152.29-242, server: 108.165.152.29, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-52.32.90.142-243, server: 52.32.90.142, port: 80, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-115.23.249.80-244, server: 115.23.249.80, port: 16039, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-5.182.86.252-245, server: 5.182.86.252, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇷🇺RU-89.248.207.37-246, server: 89.248.207.37, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-45.147.50.154-247, server: 45.147.50.154, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇫🇷FR-51.44.86.78-248, server: 51.44.86.78, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-192.200.160.169-249, server: 192.200.160.169, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-178.128.198.120-250, server: 178.128.198.120, port: 8443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇰🇷KR-211.217.26.23-251, server: 211.217.26.23, port: 20256, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.45-252, server: 188.164.159.45, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-192.0.54.221-253, server: 192.0.54.221, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-5.182.84.52-254, server: 5.182.84.52, port: 2083, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-178.128.198.120-255, server: 178.128.198.120, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇮🇹IT-91.193.5.121-256, server: 91.193.5.121, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇹🇷TR-78.135.110.152-257, server: 78.135.110.152, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇮🇹IT-91.193.5.121-258, server: 91.193.5.121, port: 8443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-216.24.57.186-259, server: 216.24.57.186, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-192.0.54.7-260, server: 192.0.54.7, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-192.200.160.109-261, server: 192.200.160.109, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇫🇷FR-51.44.86.78-262, server: 51.44.86.78, port: 443, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇩🇪DE-45.147.50.154-263, server: 45.147.50.154, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-194.164.32.27-264, server: 194.164.32.27, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-27.50.49.166-265, server: 27.50.49.166, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇷🇺RU-45.67.215.250-266, server: 45.67.215.250, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-154.211.8.152-267, server: 154.211.8.152, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-3.132.116.250-268, server: 3.132.116.250, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-209.208.227.79-269, server: 209.208.227.79, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-107.174.79.149-270, server: 107.174.79.149, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-103.116.7.103-271, server: 103.116.7.103, port: 2083, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: true}
+- {name: 🇰🇷KR-125.142.156.70-272, server: 125.142.156.70, port: 50000, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇷🇺RU-178.250.159.120-273, server: 178.250.159.120, port: 2053, type: trojan, password: Aimer, sni: ngepz.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.55-274, server: 188.164.159.55, port: 2096, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-103.116.7.103-275, server: 103.116.7.103, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-104.129.166.131-276, server: 104.129.166.131, port: 8443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-92.243.74.180-277, server: 92.243.74.180, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-198.62.62.192-278, server: 198.62.62.192, port: 2083, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-23.169.184.28-279, server: 23.169.184.28, port: 13800, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-213.109.205.45-280, server: 213.109.205.45, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-154.197.64.173-281, server: 154.197.64.173, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-167.68.4.223-282, server: 167.68.4.223, port: 2096, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.25-283, server: 188.164.159.25, port: 2053, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-141.11.203.168-284, server: 141.11.203.168, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-154.197.64.206-285, server: 154.197.64.206, port: 443, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-176.53.144.206-286, server: 176.53.144.206, port: 8443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-5.182.84.229-287, server: 5.182.84.229, port: 2087, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇺🇸US-216.24.57.207-288, server: 216.24.57.207, port: 443, type: trojan, password: Aimer, sni: ngepy.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-188.164.159.248-289, server: 188.164.159.248, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-213.241.198.189-290, server: 213.241.198.189, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🏁RELAY-167.68.4.199-291, server: 167.68.4.199, port: 2053, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: true}
+- {name: 🇳🇱NL-193.29.139.179-292, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+- {name: 🇳🇱NL-193.29.139.179-293, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+- {name: 🇳🇱NL-103.104.247.47-294, server: 103.104.247.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+- {name: 🇷🇺RU-46.17.42.248-295, server: 46.17.42.248, port: 23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
+- {name: 🇰🇷KR-52.79.56.225-296, server: 52.79.56.225, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-43.201.29.47-297, server: 43.201.29.47, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-52.79.157.153-298, server: 52.79.157.153, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇺🇸US-54.244.81.162-299, server: 54.244.81.162, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇸🇬SG-13.229.212.209-300, server: 13.229.212.209, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇺🇸US-54.213.164.80-301, server: 54.213.164.80, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇺🇸US-54.202.75.206-302, server: 54.202.75.206, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-43.203.218.87-303, server: 43.203.218.87, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-13.125.37.249-304, server: 13.125.37.249, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-13.125.158.71-305, server: 13.125.158.71, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇰🇷KR-43.201.254.211-306, server: 43.201.254.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇺🇸US-34.217.179.211-307, server: 34.217.179.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+- {name: 🇦🇺AU-20.213.20.185-308, server: 20.213.20.185, port: 17718, type: vmess, uuid: c206e022-34c6-4fe3-a232-b9c07ba3165d, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 20.213.20.185}}
+- {name: 🏁RELAY-104.21.80.1-309, server: br.899994.xyz, port: 443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: br.899994.xyz}}
+- {name: 🇩🇪DE-188.34.195.166-310, server: 188.34.195.166, port: 2095, type: vmess, uuid: 94f332b0-c5d3-4531-a1d6-6e6358cc6c72, alterId: 0, cipher: auto, skip-cert-verify: true, network: httpupgrade, ws-path: "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560", tls: false, ws-headers: {Host: mci.mtn.ir.com.org.net.om2.musicfa123.ir.}}
+- {name: 🏁RELAY-172.64.80.1-311, server: ovhwuxian.pai50288.uk, port: 8443, type: vmess, uuid: 86455bfc-dd02-4a3b-9f03-7668f39375d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: ovhwuxian.pai50288.uk}}
+- {name: 🇨🇭CH-23.166.88.183-312, server: 23.166.88.183, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 23.166.88.183}}
+- {name: 🇩🇪DE-80.240.112.32-313, server: 80.240.112.32, port: 443, type: trojan, password: 3763495894587285504, sni: electric-sunbird.goat627.mom, skip-cert-verify: true}
+- {name: 🇩🇪DE-91.107.247.219-314, server: 91.107.247.219, port: 48617, type: vmess, uuid: df79a753-1586-4819-bd76-79d27f94ed9d, alterId: 0, cipher: auto, skip-cert-verify: true, network: grpc, ws-path: /, tls: true, ws-headers: {Host: 91.107.247.219}}
+- {name: 🇩🇪DE-159.69.120.98-315, server: 159.69.120.98, port: 41391, type: vmess, uuid: b5c3e2e8-dfb6-4a0a-b656-87e997610785, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 159.69.120.98}}
+- {name: 🇩🇪DE-188.245.100.168-316, server: 188.245.100.168, port: 18926, type: vmess, uuid: 7ff9d116-95a9-4272-acc8-0db83168f4d0, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 188.245.100.168}}
+- {name: 🇩🇪DE-91.107.249.149-317, server: 91.107.249.149, port: 80, type: vmess, uuid: 76c65130-1bbb-4009-9751-527eac272614, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /QUeMEWutZPYYVnnKj, tls: false, ws-headers: {Host: speedtest.net}}
+- {name: 🇫🇷FR-13.39.138.247-318, server: 13.39.138.247, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇫🇷FR-5.196.29.123-319, server: 5.196.29.123, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 5.196.29.123}}
+- {name: 🇫🇷FR-5.196.29.123-320, server: 5.196.29.123, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 5.196.29.123}}
+- {name: 🇫🇷FR-146.19.168.161-321, server: 146.19.168.161, port: 443, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /link, tls: true, ws-headers: {Host: az05.beyondy.cfd}}
+- {name: 🇫🇷FR-146.19.168.161-322, server: az05.beyondy.cfd, port: 443, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /link, tls: true, ws-headers: {Host: az05.beyondy.cfd}}
+- {name: 🇫🇷FR-45.145.167.103-323, server: indiavideo.sbs, port: 443, type: vmess, uuid: 425c5e6e-30a0-4984-8a13-ee6f72053162, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkws, tls: true, ws-headers: {Host: indiavideo.sbs}}
+- {name: 🇫🇷FR-146.19.168.161-324, server: 146.19.168.161, port: 443, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /link, tls: true, ws-headers: {Host: az05.beyondy.cfd}}
+- {name: 🇬🇧GB-161.35.34.48-325, server: 161.35.34.48, port: 443, type: trojan, password: 2cba4104747d49d18319e5ade1b93ab5, sni: yourjobnavigator.online, skip-cert-verify: true}
+- {name: 🇬🇧GB-3.11.192.133-326, server: 3.11.192.133, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
+- {name: 🇭🇰HK-103.149.183.178-327, server: 103.149.183.178, port: 27512, type: vmess, uuid: 96d38683-0817-4d91-bffa-6f03df18d9dc, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.149.183.178}}
+- {name: 🇭🇰HK-103.149.183.178-328, server: 103.149.183.178, port: 54675, type: vmess, uuid: 3a907956-f668-4e6b-ea03-0949f0c9c0a5, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 103.149.183.178}}
+- {name: 🇭🇰HK-118.193.33.237-329, server: 118.193.33.237, port: 40908, type: vmess, uuid: 43740b3d-16b7-4d31-cf20-f1eab5e35bc9, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.33.237}}
+- {name: 🇭🇰HK-118.193.34.158-330, server: 118.193.34.158, port: 52825, type: vmess, uuid: 67ff500a-8484-4ed8-cf8f-b8d341534140, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.34.158}}
+- {name: 🇭🇰HK-118.193.34.236-331, server: 118.193.34.236, port: 13688, type: vmess, uuid: 93127065-1a5b-4816-d009-5bf5e0aa10b6, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.34.236}}
+- {name: 🇭🇰HK-118.193.38.173-332, server: 118.193.38.173, port: 21066, type: vmess, uuid: f11cf8ff-89b3-4c4c-fdf8-b47111d852d8, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.38.173}}
+- {name: 🇭🇰HK-118.193.39.104-333, server: 118.193.39.104, port: 15366, type: vmess, uuid: 30d50840-88b1-474b-a17f-9fca177918d2, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 118.193.39.104}}
+- {name: 🇷🇺RU-46.29.166.237-334, server: 46.29.166.237, port: 47555, type: vmess, uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 46.29.166.237}}
+- {name: 🇮🇳IN-185.67.125.160-335, server: 185.67.125.160, port: 443, type: trojan, password: 3763495982449565696, sni: topical-gibbon.goat627.mom, skip-cert-verify: true}
+- {name: 🏁RELAY-172.67.142.22-336, server: vu-mumbai-01.vnode.info, port: 2053, type: vmess, uuid: a04001f3-2dba-40ed-8c2e-d0c765d9afaa, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: vu-mumbai-01.vnode.info}}
+- {name: 🏁RELAY-104.21.96.1-337, server: it0.899994.xyz, port: 8443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: it0.899994.xyz}}
+- {name: 🇰🇿KZ-194.76.18.129-338, server: 194.76.18.129, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, ws-path: "h=%2F", skip-cert-verify: true}
+- {name: 🇯🇵JP-152.69.197.60-339, server: 152.69.197.60, port: 1069, type: vmess, uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 152.69.197.60}}
+- {name: 🇯🇵JP-156.246.94.94-340, server: 156.246.94.94, port: 433, type: vmess, uuid: bebdb5c1-e0cb-4319-b614-a0581fdd3158, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 156.246.94.94}}
+- {name: 🏁RELAY-104.21.64.1-341, server: tokyo.899994.xyz, port: 443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: tokyo.899994.xyz}}
+- {name: 🇲🇽MX-79.127.229.54-342, server: 79.127.229.54, port: 18000, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 79.127.229.54}}
+- {name: 🇳🇱NL-154.47.21.27-343, server: 154.47.21.27, port: 8099, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 154.47.21.27}}
+- {name: 🏁RELAY-104.21.80.1-344, server: se.899994.xyz, port: 443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: se.899994.xyz}}
+- {name: 🇸🇬SG-139.59.119.143-345, server: 139.59.119.143, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: connectwithemployers.online, skip-cert-verify: true}
+- {name: 🇸🇬SG-18.141.59.72-346, server: 18.141.59.72, port: 443, type: trojan, password: 3760559353321758720, sni: dear-sunbeam.treefrog761.one, skip-cert-verify: true}
+- {name: 🏁RELAY-104.19.48.236-347, server: 104.19.48.236, port: 80, type: vmess, uuid: e6543319-0574-42ac-b778-1c4325d626f5, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: chunchuan.kejixiaoqi666.store}}
+- {name: 🏁RELAY-104.16.83.43-348, server: 104.16.83.43, port: 443, type: trojan, password: Ng35283528, sni: c2.validbv3528.eu.org, ws-path: "h=%2F%3Fed%3D2560", skip-cert-verify: true}
+- {name: 🇺🇸US-18.206.145.45-349, server: 18.206.145.45, port: 443, type: trojan, password: 3767107462583558144, sni: warm-rabbit.goat627.mom, skip-cert-verify: true}
+- {name: 🇺🇸US-192.9.132.79-350, server: 192.9.132.79, port: 443, type: trojan, password: 696cfe79, sni: sje.5216818.xyz, skip-cert-verify: true}
+- {name: 🇺🇸US-154.17.26.150-351, server: 154.17.26.150, port: 28331, type: trojan, password: C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag, sni: deliver.missionsec.io, skip-cert-verify: true}
+- {name: 🇺🇸US-154.17.24.29-352, server: 154.17.24.29, port: 443, type: trojan, password: x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj, sni: imprint.freetrade.link, skip-cert-verify: true}
+- {name: 🇺🇸US-144.202.20.70-353, server: 144.202.20.70, port: 8881, type: vmess, uuid: db5afae4-ac23-41a6-8378-f307a9a47436, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: moi.ir}}
+- {name: 🏁RELAY-104.16.155.10-354, server: 104.16.155.10, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.24.185.219, tls: false, ws-headers: {Host: 100-151-81-36.s4.db-link01.top}}
+- {name: 🏁RELAY-104.16.155.10-355, server: 104.16.155.10, port: 2052, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.175.137, tls: false, ws-headers: {Host: 100-102-247-92.s1.db-link02.top}}
+- {name: 🏁RELAY-104.16.155.10-356, server: 104.16.155.10, port: 80, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.17.169.115, tls: false, ws-headers: {Host: 100-49-141-209.s1.db-link02.top}}
+- {name: 🏁RELAY-104.19.48.236-357, server: 104.19.48.236, port: 8080, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.20.244.251, tls: false, ws-headers: {Host: 100-150-171-114.s4.cn-db.top}}
+- {name: 🇺🇸US-2.58.87.221-358, server: 2.58.87.221, port: 12269, type: vmess, uuid: db85ff0e-c33f-401d-c415-4c7cce135704, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 2.58.87.221}}
+- {name: 🏁RELAY-172.67.146.154-359, server: lamusa.daozhang.site, port: 8880, type: vmess, uuid: 1c1cb7fe-a929-4e47-b292-4073b63d2d4b, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: lamusa.daozhang.site}}
+- {name: 🏁RELAY-104.17.213.241-360, server: s1.cn-db.top, port: 2095, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.132.97, tls: false, ws-headers: {Host: 100-139-204-73.s1.cn-db.top}}
+- {name: 🏁RELAY-104.17.221.248-361, server: s1.db-link01.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.67.95.35, tls: false, ws-headers: {Host: 100-250-32-53.s1.db-link01.top}}
+- {name: 🏁RELAY-104.17.213.241-362, server: s1.db-link02.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.249.215, tls: false, ws-headers: {Host: 100-103-58-39.s1.db-link02.top}}
+- {name: 🏁RELAY-104.19.48.236-363, server: s1.db-link02.top, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.67.79.231, tls: false, ws-headers: {Host: 100-113-212-3.s1.db-link02.top}}
+- {name: 🏁RELAY-104.19.48.236-364, server: s1.db-link02.top, port: 8080, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.21.151.202, tls: false, ws-headers: {Host: 100-213-61-102.s1.db-link02.top}}
+- {name: 🏁RELAY-104.17.221.248-365, server: s2.db-link01.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.64.0.32, tls: false, ws-headers: {Host: 100-14-147-154.s2.db-link01.top}}
+- {name: 🏁RELAY-104.16.155.10-366, server: s2.db-link02.top, port: 2052, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.64.6.224, tls: false, ws-headers: {Host: 100-34-100-44.s2.db-link02.top}}
+- {name: 🏁RELAY-104.19.48.236-367, server: s4.cn-db.top, port: 2052, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.25.124.184, tls: false, ws-headers: {Host: 100-106-60-74.s4.cn-db.top}}
+- {name: 🏁RELAY-104.16.155.10-368, server: s4.cn-db.top, port: 2082, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in104.19.101.110, tls: false, ws-headers: {Host: 100-59-178-247.s4.cn-db.top}}
+- {name: 🏁RELAY-104.17.213.241-369, server: s4.db-link01.top, port: 8880, type: vmess, uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dabai.in172.67.5.70, tls: false, ws-headers: {Host: 100-44-229-26.s4.db-link01.top}}
+- {name: 🇺🇸US-2.58.87.221-370, server: 2.58.87.221, port: 12269, type: vmess, uuid: db85ff0e-c33f-401d-c415-4c7cce135704, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 2.58.87.221}}
+- {name: 🇺🇸US-2.58.87.221-371, server: 2.58.87.221, port: 12269, type: vmess, uuid: db85ff0e-c33f-401d-c415-4c7cce135704, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 2.58.87.221}}
+- {name: 🏁RELAY-104.21.112.1-372, server: buffalo.899994.xyz, port: 8443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: buffalo.899994.xyz}}
+- {name: 🏁RELAY-104.21.16.1-373, server: ff.kncc2.top, port: 8443, type: vmess, uuid: 89c344f2-096c-445c-b629-9b15152f38e7, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /89c344f2, tls: true, ws-headers: {Host: ff.kncc2.top}}
+- {name: 🏁RELAY-104.21.80.1-374, server: portland.899994.xyz, port: 8443, type: vmess, uuid: a0605527-28e4-449c-80ee-5642cc16a8af, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /index, tls: true, ws-headers: {Host: portland.899994.xyz}}
